@@ -5,10 +5,10 @@ C program to calculate the value of a black hand.
 ### SYNOPSIS
 ```
 Compilation :
-gcc blackjack.c -o blackjack
+$> gcc blackjack.c -o blackjack
 
 Execution :
-./blackjack "<cards>"
+$> ./blackjack "<cards>"
 ```
 
 ### USAGE
